@@ -1,3 +1,9 @@
+about the GFW:
 https://cokebar.info/archives/236
 https://yuerblog.cc/2016/11/23/the-principles-of-shadowsocks/
 https://sodatea.github.io/2015/12/23/all-i-know-about-the-wall/
+
+how to:
+http://shadowsocks.blogspot.com/
+https://zoomyale.com/2016/vultr_and_ss/
+http://www.jianshu.com/p/58dc2e1d951f
