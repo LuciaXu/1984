@@ -7,3 +7,4 @@ how to:
 http://shadowsocks.blogspot.com/
 https://zoomyale.com/2016/vultr_and_ss/
 http://www.jianshu.com/p/58dc2e1d951f
+http://waynechu.cn/shadowsocks/2016/08/14/%E5%9C%A8VPS%E4%B8%8A%E6%90%AD%E5%BB%BAshadowsocks%E6%9D%A5%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91.html

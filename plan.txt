@@ -1,3 +1,4 @@
 Current Goal:
-Understand how the GFW works. Find out the most efficient way to deal with it. Make a plan for the project.
-Some useful websites are in useful_web.txt.
+1. Choose a VPS.
+2. Build shadowsocks server.
+3. Build shadowsocks Client.
